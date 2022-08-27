@@ -1,0 +1,11 @@
+{
+    "require": {
+        "amphp/http-server": "^2.1",
+        "amphp/http-server-router": "^1.0",
+        "amphp/redis": "^1.0",
+        "amphp/sync": "^1.4",
+        "amphp/log": "^1.1",
+        "amphp/mysql": "^2.1",
+        "amphp/http-client": "^4.6"
+    }
+}
